@@ -1,0 +1,10 @@
+﻿  goBangList.cpp
+  main.cpp
+main.cpp(200): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+main.cpp(205): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  winMsgProc.cpp
+  正在生成代码
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  goBangGame.vcxproj -> D:\Documents\Visual Studio 2013\Projects\goBangGame\Release\goBangGame.exe
+  goBangGame.vcxproj -> D:\Documents\Visual Studio 2013\Projects\goBangGame\Release\goBangGame.pdb (Full PDB)
